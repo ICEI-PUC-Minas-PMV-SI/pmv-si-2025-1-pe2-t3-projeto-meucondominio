@@ -2,18 +2,20 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: 
 authors:
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6 
+  - family-names: Machado Trindade
+    given-names: Debora Diniz 
+  - family-names: dos Santos
+    given-names: Joao Victor
+  - family-names: Carvalho Caldeira
+    given-names: Lucas Felipe
+  - family-names: Gonçalves Silva
+    given-names: Marcos Paulo
+  - family-names: da Costa Pereira
+    given-names: Pedro Henrique
+  - family-names: Bustamante
+    given-names: Raphael Caracci
+ - family-names: Santos Morais
+    given-names: Ryan Vinicius
   - name-suffix: Professora
     affiliation: PUC Minas
     family-names: Alonso Veloso
