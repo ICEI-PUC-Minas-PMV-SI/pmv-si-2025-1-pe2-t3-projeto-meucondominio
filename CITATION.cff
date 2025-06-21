@@ -1,6 +1,6 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: MeuCondominio
 authors:
   - family-names: Machado Trindade
     given-names: Debora Diniz 
@@ -14,7 +14,7 @@ authors:
     given-names: Pedro Henrique
   - family-names: Bustamante
     given-names: Raphael Caracci
- - family-names: Santos Morais
+  - family-names: Santos Morais
     given-names: Ryan Vinicius
   - name-suffix: Professora
     affiliation: PUC Minas
@@ -29,9 +29,13 @@ authors:
     family-names: Da Mota
     given-names: Rosilane Ribeiro
 keywords:
-  - 
-  - 
-repository-code: 
+  - Gestão
+  - Condomínio
+  - Sydle One
+  - Cobranças
+  - Financeiro
+  - Cadastros
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe2-t3-projeto-meucondominio
 license: CC-BY-4.0
 version: 1.0.0
-date-released:
+date-released: 2025-06-22
